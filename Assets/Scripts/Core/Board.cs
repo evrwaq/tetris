@@ -5,6 +5,7 @@ public class Board : MonoBehaviour
   public Transform emptySprite;
   public int height = 30;
   public int width = 10;
+  public int header = 8;
 
   private void Start()
   {
@@ -15,7 +16,7 @@ public class Board : MonoBehaviour
   {
     if (this.emptySprite)
     {
-      for (int y = 0; y < this.height; y++)
+      for (int y = 0; y < this.height - this.header; y++)
       {
         for (int x = 0; x < this.width; x++)
         {
