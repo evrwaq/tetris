@@ -7,6 +7,13 @@ public class Board : MonoBehaviour
   public int width = 10;
   public int header = 8;
 
+  private Transform[,] grid;
+
+  private void Awake()
+  {
+    this.grid = new Transform[this.width, this.height];
+  }
+
   private void Start()
   {
     this.DrawEmptyCells();
