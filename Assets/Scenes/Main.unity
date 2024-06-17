@@ -1040,6 +1040,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 528321996}
     m_Modifications:
+    - target: {fileID: 347721275885879710, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: FX Fill
+      objectReference: {fileID: 0}
+    - target: {fileID: 733379886204939507, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: FX Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 1450337176035856476, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1120,13 +1128,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2287455646054330833, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: FX Border
+      objectReference: {fileID: 0}
     - target: {fileID: 5331166222421795364, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5429459934503046024, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: FX Label
+      objectReference: {fileID: 0}
     - target: {fileID: 5465606887891398005, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Name
-      value: Icon Text With Border (1)
+      value: FX
       objectReference: {fileID: 0}
     - target: {fileID: 5632736692180316980, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_text
@@ -1154,6 +1170,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 528321996}
     m_Modifications:
+    - target: {fileID: 347721275885879710, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Music Fill
+      objectReference: {fileID: 0}
+    - target: {fileID: 733379886204939507, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Music Icon
+      objectReference: {fileID: 0}
     - target: {fileID: 1450337176035856476, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1234,13 +1258,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2287455646054330833, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Music Border
+      objectReference: {fileID: 0}
     - target: {fileID: 5331166222421795364, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5429459934503046024, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Music Label
+      objectReference: {fileID: 0}
     - target: {fileID: 5465606887891398005, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Name
-      value: Icon Text With Border (2)
+      value: Music
       objectReference: {fileID: 0}
     - target: {fileID: 5632736692180316980, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_text
@@ -1478,6 +1510,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 528321996}
     m_Modifications:
+    - target: {fileID: 347721275885879710, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Rotate Fill
+      objectReference: {fileID: 0}
     - target: {fileID: 733379886204939507, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1562,13 +1598,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2287455646054330833, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Rotate Border
+      objectReference: {fileID: 0}
     - target: {fileID: 5331166222421795364, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5429459934503046024, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Rotate Label
+      objectReference: {fileID: 0}
     - target: {fileID: 5465606887891398005, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Name
-      value: Icon Text With Border
+      value: Rotate
       objectReference: {fileID: 0}
     - target: {fileID: 5632736692180316980, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_text
@@ -1596,6 +1640,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1024596568}
     m_Modifications:
+    - target: {fileID: 347721275885879710, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Level Fill
+      objectReference: {fileID: 0}
     - target: {fileID: 733379886204939507, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1680,13 +1728,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2287455646054330833, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Level Border
+      objectReference: {fileID: 0}
     - target: {fileID: 4701229417193338238, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Color.a
       value: 0.33333334
       objectReference: {fileID: 0}
+    - target: {fileID: 5331166222421795364, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Level Text
+      objectReference: {fileID: 0}
+    - target: {fileID: 5429459934503046024, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Level Label
+      objectReference: {fileID: 0}
     - target: {fileID: 5465606887891398005, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Name
-      value: Icon Text With Border (1)
+      value: Level
       objectReference: {fileID: 0}
     - target: {fileID: 5632736692180316980, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_text
@@ -1841,6 +1901,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1024596568}
     m_Modifications:
+    - target: {fileID: 347721275885879710, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Lines Fill
+      objectReference: {fileID: 0}
     - target: {fileID: 733379886204939507, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1925,13 +1989,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2287455646054330833, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Lines Border
+      objectReference: {fileID: 0}
     - target: {fileID: 4701229417193338238, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Color.a
       value: 0.33333334
       objectReference: {fileID: 0}
+    - target: {fileID: 5331166222421795364, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Lines Text
+      objectReference: {fileID: 0}
+    - target: {fileID: 5429459934503046024, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
+      propertyPath: m_Name
+      value: Lines Label
+      objectReference: {fileID: 0}
     - target: {fileID: 5465606887891398005, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_Name
-      value: Icon Text With Border
+      value: Lines
       objectReference: {fileID: 0}
     - target: {fileID: 5632736692180316980, guid: dc3bf9fe42604c5429493ae9646df44f, type: 3}
       propertyPath: m_text
